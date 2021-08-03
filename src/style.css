@@ -1,0 +1,50 @@
+body {
+  background-image: url("https://static2.gamerantimages.com/wordpress/wp-content/uploads/2021/04/iron-man-mark-85-promo-avengers-endgame.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #EAEAEA;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#title {
+  text-align: center;
+  font-family: "Anton", sans-serif;
+  margin-top: 20px;
+  font-size: 5em;
+}
+#img-caption {
+  text-align: center;
+  font-family: "Anton", sans-serif;
+  font-size: 2em;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+#image {
+  max-width: 100%;
+}
+hr {
+  border-color: grey;
+}
+#tribute-info {
+  text-align: center;
+  font-family: "Anton", sans-serif;
+  font-size: 1em;
+}
+#footer {
+  text-align: center;
+  font-family: "Anton", sans-serif;
+  font-size: 1em;
+}
+.big-box {
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 10px;
+}
